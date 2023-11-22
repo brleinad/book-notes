@@ -1,9 +1,11 @@
+# Deploy Empathy
+
 ## Resources
 
 - https://jtbd.info/a-script-to-kickstart-your-jobs-to-be-done-interviews-2768164761d7
 - https://stripe.com/en-dk/guides/atlas/saas-pricing
 
-## evaluating an idea
+## Evaluating an idea
 
 find 5 people to talk to
 
@@ -11,7 +13,7 @@ find 5 people to talk to
 - manual processes
 - are people paying for this already
 
-### asking for interview
+### Asking for interview
 
 - who and what
 - intro to what you want to learn
@@ -22,7 +24,7 @@ find 5 people to talk to
 Do you run a dog daycare? I'd like to build something makes running one easier, and I'm hoping to understand how run a dog daycare.
 I'm looking to talk to people who are currently running a dog daycare. If that's you
 
-## Interview
+## Discovery Interview
 
 ### Goals:
 
@@ -73,7 +75,7 @@ When actually ready:
 - [if goes well] I've really enjoyed our conversation. If we end up building something that tries to solve it, can I reach back out to you and get your thoughts?
 - Thanks again. Have a good one!
 
-### how to aks how much they would pay
+### How to aks how much they would pay
 
 - Can I ask what you're currently paying?
 - And can I ask how often you pay that?
