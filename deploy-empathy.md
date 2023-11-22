@@ -1,7 +1,7 @@
 ## Resources
 
-https://jtbd.info/a-script-to-kickstart-your-jobs-to-be-done-interviews-2768164761d7
-https://stripe.com/en-dk/guides/atlas/saas-pricing
+- https://jtbd.info/a-script-to-kickstart-your-jobs-to-be-done-interviews-2768164761d7
+- https://stripe.com/en-dk/guides/atlas/saas-pricing
 
 ## evaluating an idea
 
